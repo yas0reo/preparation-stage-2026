@@ -43,7 +43,7 @@ Cochez les langages avec lesquels vous êtes à l'aise. Ajoutez-en au besoin.:
 - [ ] Connaissance de systèmes de gestion de contenu (CMS)
 
 # Objectif de carrière
-Copier-coller votre objectif de carrière ici. 
+Je souhaite faire carrière comme créatrice de contenu visuel dans le domaine du marketing numérique, où je pourrai mettre en pratique ma créativité ainsi que mes compétences en photographie et en montage vidéo.
 
 # Projet 1 
 Nom de votre projet: Space In Betweenn
