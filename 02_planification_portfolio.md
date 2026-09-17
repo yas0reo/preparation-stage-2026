@@ -79,6 +79,8 @@ Nous avons créé une expérience immersive en réalité virtuelle qui plonge le
 
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, etc.) :
 
+un fichier .zip a été déposé dans notre conversation teams (dossier bientot disponible sur github !)
+
 # Projet 2
 
 Nom de votre projet : Projet Paysage
@@ -105,6 +107,9 @@ Description de votre projet (Qu’est-ce que vous avez fait ?) (2 phrases) :
 
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, etc.) :
 
+un fichier .zip a été déposé dans notre conversation teams (dossier bientot disponible sur github !)
+
+
 # Projet 3
 
 Nom de votre projet : Installation immersive et vidéo mosaïque – Matir-X
@@ -128,6 +133,8 @@ Description de votre projet (Qu’est-ce que vous avez fait ?) (2 phrases) : Ins
 
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, etc.) :
 
+un fichier .zip a été déposé dans notre conversation teams (dossier bientot disponible sur github !)
+
 # Projet 4
 
 Nom de votre projet : Projet Rouge
@@ -150,6 +157,8 @@ Réaliser en équipe un montage monochrome rouge de 60 à 120 secondes à partir
 Description de votre projet (Qu’est-ce que vous avez fait ?) (2 phrases) : L'histoire parle d'Elisabeth, une poupée qui exprime sa peine à travers des lettres destinées à son ancien amour. Chaque lettre, un morceau de son âme brisée, s'envole avec un ballon rouge, symbolisant son amour perdu. Alors que sa détresse devient insupportable, Elisabeth pleure des larmes de sang sur ces lettres, plongeant dans la folie. Ce récit explore les profondeurs de l'âme, dévoilant la force dévastatrice de la douleur et de la démence, même pour un cœur artificiel.
 
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, etc.) :
+
+un fichier .zip a été déposé dans notre conversation teams (dossier bientot disponible sur github !)
 
 # Projet 5 — (Optionnel)
 
@@ -178,6 +187,8 @@ Description de votre projet (Qu’est-ce que vous avez fait ?) (2 phrases) :
 l’évolution d’une relation amoureuse qui commence dans le bonheur, mais qui se détériore progressivement à travers les conflits et la détresse émotionnelle, jusqu’à entraîner la protagoniste dans une période sombre marquée par les pleurs, l’isolement et le vapotage. Après la rupture, elle traverse son chagrin et finit par se libérer de cette relation pour aller de l’avant.
 
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, etc.) :
+
+un fichier .zip a été déposé dans notre conversation teams (dossier bientot disponible sur github !)
 
 # Projet 6 (Optionnel)
 
