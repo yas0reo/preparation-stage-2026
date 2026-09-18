@@ -77,7 +77,7 @@ Description du projet (Qu’est-ce que le professeur vous a demandé de réalise
 Créer une expérience pour casque de réalité virtuelle dans un environnement immersif, réactif et évolutif. Le projet doit inclure des interactions, une progression, un mode de déplacement, du son spatialisé, des animations, un menu et au moins un modèle 3D créé par l’équipe.
 
 Description de votre projet (Qu’est-ce que vous avez fait ?) (2 phrases) :
-Nous avons créé une expérience immersive en réalité virtuelle qui plonge le joueur dans un univers mystérieux composé de plusieurs mondes aux ambiances et défis différents. Le joueur explore ces environnements à travers trois expériences interactives (Parcours, Cherche et trouve et Course contre la montre) faisant appel à l’exploration, à l’observation et à l’interaction. Des portails relient les différents mondes, permettant au joueur de voyager entre eux et de progresser à travers l’expérience.
+Nous avons créé une expérience immersive en réalité virtuelle qui plonge le joueur dans un univers mystérieux composé de plusieurs mondes aux ambiances et défis différents. Le joueur explore ces environnements à travers trois expériences interactives — Parcours, Cherche et trouve et Course contre la montre — faisant appel à l’exploration, à l’observation et à l’interaction. Des portails relient les différents mondes, permettant au joueur de voyager entre eux et de progresser à travers l’expérience.
 
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, etc.) :
 
